@@ -1,0 +1,10 @@
+2026-05-12 01:59:32,908 -  DEBUG -  Start of program
+2026-05-12 01:59:32,950 -  DEBUG -  Start of factorial(5)
+2026-05-12 01:59:32,951 -  DEBUG -  i is 0, total is 0
+2026-05-12 01:59:32,951 -  DEBUG -  i is 1, total is 0
+2026-05-12 01:59:32,951 -  DEBUG -  i is 2, total is 0
+2026-05-12 01:59:32,951 -  DEBUG -  i is 3, total is 0
+2026-05-12 01:59:32,952 -  DEBUG -  i is 4, total is 0
+2026-05-12 01:59:32,952 -  DEBUG -  i is 5, total is 0
+2026-05-12 01:59:32,952 -  DEBUG -  End of factorial(5)
+2026-05-12 01:59:33,168 -  DEBUG -  End of program
